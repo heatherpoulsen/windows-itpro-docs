@@ -7,7 +7,7 @@ ms.sitesec: library
 ms.pagetype: security
 ---
 
-# Access Control Overview
+# Access Control
 
 **Applies to**
 -   Windows 10
